@@ -43,9 +43,15 @@
 - Игроки по очереди делают ходы, пока один из них не победит или игра не закончится вничью.
 
 ## Скриншоты
+![image](https://github.com/user-attachments/assets/68fedad8-b1b9-4b2a-bdc0-9ab70b8b9106)
 
-[Скриншот кода](https://imgur.com/a/xCMdbIT)
-[Скриншот программы](https://imgur.com/a/tka4AjN)
+![image](https://github.com/user-attachments/assets/285cf60f-bd3d-4d2d-a581-71e964df78ba)
+![image](https://github.com/user-attachments/assets/c084b0e2-5b7a-487d-8988-08cc494d9ce8)
+![image](https://github.com/user-attachments/assets/5de92f42-7265-4120-9e23-2445728c021c)
+
+
+
+
 
 ## Лицензия
 
