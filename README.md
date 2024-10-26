@@ -44,8 +44,8 @@
 
 ## Скриншоты
 
-![Скриншот 1](https://imgur.com/a/xCMdbIT)
-![Скриншот 2](https://imgur.com/a/tka4AjN)
+[Скриншот кода](https://imgur.com/a/xCMdbIT)
+[Скриншот программы](https://imgur.com/a/tka4AjN)
 
 ## Лицензия
 
